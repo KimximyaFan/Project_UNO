@@ -18,3 +18,8 @@
 ![image](https://github.com/user-attachments/assets/ea0d2f2b-2789-4e6f-9c18-5bb3b4033119)
 
 4인 팀 프로젝트이며, 참여자는 위 그림과 같습니다
+
+
+## 개발관련 문서
+
+https://github.com/Seoultech-Software-Engineering/Project_UNO/wiki

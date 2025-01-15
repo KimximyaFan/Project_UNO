@@ -15,9 +15,12 @@
 
 <br><br>
 
-![image](https://github.com/user-attachments/assets/ea0d2f2b-2789-4e6f-9c18-5bb3b4033119)
+* [Noh Da-Bin](https://github.com/nodb)
+* [Timeshifts](https://github.com/Timeshifts)
+* [KimximyaFan](https://github.com/KimximyaFan)
+* [donggu-28](https://github.com/donggu-28)
 
-4인 팀 프로젝트이며, 참여자는 위 그림과 같습니다
+4인 팀 프로젝트이며, 참여자는 위와 같습니다
 
 <br><br>
 
